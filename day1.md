@@ -64,7 +64,12 @@ The design team is *anyone* who influences the rendering of intent.
 
 Goal: bring design team to state of understanding about design. Conscious competence at least. But you must come into the room with the expectation that every team member has design potential.
 
-## ias culture
+## to read later
+
+ - concept modeling: [stephen anderson's presentation](http://www.slideshare.net/stephenpa/place-in-space-aka-how-to-design-a-concept-model), [livia's post on this topic](http://livialabate.com/says/concept-modeling-is-hard/)
+ - 
+
+## ias culture observations
 
 cohesive
 speaker: You all are makers
