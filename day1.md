@@ -17,7 +17,7 @@ things we can do:
     - do more by doing less. just listen
     - don't wait for anyone's permission to do anything
 
-## jared - design is a team sport
+## [jared - design is a team sport](https://dl.dropboxusercontent.com/u/1086584/Design%20is%20a%20Team%20Sport%20-%20R2.0a.pdf)
 
 [Boarding pass design](http://passfail.squarespace.com/)
 
@@ -74,7 +74,7 @@ Find it, get it, question its existence, try to break it, use it
 
 [18f on GitHub](http://github.com/18f)
 
-## life and death UX
+## [life and death UX](http://www.slideshare.net/PaigeTempleton1/life-and-death-ux)
 
 So many people rely on phones as a place of support when in mental health crisis points. Suicide data at afsp.org.
 
@@ -135,11 +135,13 @@ Dirt boxes and MC catchers for detecting phone IDs within a geographic area - Io
 
 eff.org
 
-## to read later
+## to read later/sessions missed
 
  - concept modeling: [stephen anderson's presentation](http://www.slideshare.net/stephenpa/place-in-space-aka-how-to-design-a-concept-model), [livia's post on this topic](http://livialabate.com/says/concept-modeling-is-hard/)
  - [architecture and IA: expanding the metaphor](http://www.slideshare.net/jduverneay/architecture-ia-expanding-the-metaphor-ia-summit-2016)
  - [Constructing Meaning is Bloody Work: Make Everyone a Winner in the Taxonomy Wars](http://www.slideshare.net/wendywoowho/constructing-meaning-is-bloody-work-make-everyone-a-winner-in-the-taxonomy-wars-61753889)
+ - [The Ethics and Politics of Information Architecture](http://www.slideshare.net/resmini/the-ethics-and-politics-of-information-architecture)
+ - [UX Karma: designing for people we become](http://www.slideshare.net/laurentgc/ux-karma-ias-16-61759489)
  - Research: W3C HTML new spec will include DRM?
 
 ## IAS culture observations

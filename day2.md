@@ -42,7 +42,7 @@ Test in the environment, model the environment, reduce the number of variables, 
 
 People forgive if you have a good story. Senses aid story. Story aids transitions and maintenance.
 
-## personalization @colineags
+## [personalization @colineags](http://www.slideshare.net/coeagan/colin-eagan-ia-for-personalization-ia-summit-2016)
 
 Targeting = customization based on data - good vs. bad (stalker ads, awkward juxtaposition, inadvertent algorithmic cruelty)
 
@@ -87,3 +87,19 @@ Model of types of personalization:
 **Best practices:** segment traffic on your existing site to set up a baseline; iterate; always be testing (what are the KPIs? how to measure?)
 
 It doesn't have to be complex. The number one method of customer personalization today: email.
+
+## ontology dojo
+
+Ontology: defining/naming things/universe
+
+First define the domain: healthcare, finance, Michigan wines, Walmart inventory?
+
+Objects: things/nouns; concrete vs. abstract
+
+Predicates: actions between objects. "Is part of" is also a predicate (meranyms: parts of a whole)
+
+## read later
+
+ - [presenting your work](http://www.practicallyux.com/can-present-work-people-effectively/)
+ - [12 qualities of effective design organizations](http://www.slideshare.net/peterme/12-qualities-of-effective-design-organizations)
+ - 
