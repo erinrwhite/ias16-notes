@@ -98,8 +98,24 @@ Objects: things/nouns; concrete vs. abstract
 
 Predicates: actions between objects. "Is part of" is also a predicate (meranyms: parts of a whole)
 
+## multi-year projects
+
+ - broke project into feature groups
+ - broke team into groups, defined roles
+
+Tips for survival
+ - **be water.** Think about how rivers are formed. Sometimes you run into things you can't go through. Go around it. Be ice when you need to be.
+ - **make coffee.** Lead by serving your team. Share, celebrate, show. Create a positive work environment with founding principles. Assume positive intent.
+ - **be a dancer.** Lead QA, set the pace, teach the steps
+ - **don't expect Everest.** Set realistic goals, understand the challenges. Ask questions
+ - **keep track.** Need to document: for yourself, for new team members, for the unexpected. Saves mental fatigue.
+ - **conjure creativity.** Do something you love. Get outside your mission. Don't focus on work. Step back, travel, attend conferences.
+ - **be a chameleon.** pay attention, adapt to the situation. 
+
+"Please UX yourself first, then UX for others."
+
 ## read later
 
  - [presenting your work](http://www.practicallyux.com/can-present-work-people-effectively/)
  - [12 qualities of effective design organizations](http://www.slideshare.net/peterme/12-qualities-of-effective-design-organizations)
- - 
+ - [Content types: The glue between content strategy, user experience, design, and technology](http://www.slideshare.net/hilarymarsh/content-types-the-glue-between-content-strategy-user-experience-design-and-technology)

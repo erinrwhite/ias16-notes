@@ -142,6 +142,7 @@ eff.org
  - [Constructing Meaning is Bloody Work: Make Everyone a Winner in the Taxonomy Wars](http://www.slideshare.net/wendywoowho/constructing-meaning-is-bloody-work-make-everyone-a-winner-in-the-taxonomy-wars-61753889)
  - [The Ethics and Politics of Information Architecture](http://www.slideshare.net/resmini/the-ethics-and-politics-of-information-architecture)
  - [UX Karma: designing for people we become](http://www.slideshare.net/laurentgc/ux-karma-ias-16-61759489)
+ - [Tags and Taxonomies at the BBC](http://danramsden.com/2016/05/07/mind-the-gap-taxonomies-tags-and-trajectories-at-the-bbc/)
  - Research: W3C HTML new spec will include DRM?
 
 ## IAS culture observations
