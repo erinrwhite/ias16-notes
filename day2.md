@@ -114,7 +114,23 @@ Tips for survival
 
 "Please UX yourself first, then UX for others."
 
-## read later
+## keynote - leonie watson
+
+Accessibility...
+
+ - "Houston, we have a problem" - a PR problem, that is. Misconceptions.
+ - "The greatest trick the devil ever pulled was convincing the world he doesn't exist" i.e.
+ - Technology is an extraordinary enabler for people with disabilities
+ - "We are all temporarily abled"
+ - We want to do things the right way. 
+ - Accessibility is designing like we give a damn.
+ - **simplicity**. Keep things as simple as you can - design, markup, writing.
+ - No one will ever complain if you sneak in too much accessibility
+ - No such thing as perfect accessibility
+ - "Get busy living or get busy dying"
+ - People with hidden disabilities may already be in your usability testing
+
+## read later/missed sessions
 
  - [presenting your work](http://www.practicallyux.com/can-present-work-people-effectively/)
  - [12 qualities of effective design organizations](http://www.slideshare.net/peterme/12-qualities-of-effective-design-organizations)
