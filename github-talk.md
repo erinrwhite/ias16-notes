@@ -1,6 +1,6 @@
 # github patchwork talk - notes
 
-About me: Former geocities-ite, now web project manager. don't code much anymore, web dev tech is leaving me behind and that's okay. Thinking a lot about words lately. Love poop. 
+About me: Former geocities-ite, now web project manager. don't code much anymore, web dev tech is leaving me behind and that's okay. Thinking a lot about words lately.
 
 uses for github:
  - documentation for projects: [both our internal projects](https://github.com/vculibraries/alertme) and [our open-source projects](https://github.com/vculibraries/alma-primo-customizations)
