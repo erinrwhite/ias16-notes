@@ -112,3 +112,23 @@ Moving from projecting to infrastructuring: moving from designing things for spe
 5. Engage the urban landscape. Create design systems that work within ...
 6. Elevate alternative means of accessing your service. 
     - Example: what if BlueApron accepted EBT?
+
+## closing keynote - Jesse James Garrett - seven little talks
+
+1. introduction
+2. where to begin? evolution made us to withstand nature. But we now (very quickly) live in a world that is entirely human-made. We live day to day because of the way humans made our world.
+3. "use" is part of a larger story. "use" is for doing something and the experience is extrinsic to the reason we're doing something. but some experiences have intrinsic value - the experience itself. music, art, culture. these experiences are designed, too.
+4. what if some benevolent aliens contacted us and wanted to create things for humans? what would we tell them? senses, thoughts, feelings, social factors. we are wired for each other. a huge part of our brains is focused on interactions with others. interpersonal emotional attunement can be done at any scale. we are units of the larger organism called humanity.
+5. what are the boundaries of our work? the broader we go, the larger benefit to our clients. it leads back to questions of theory. we need to be more than craftspeople, but shapers of the field itself. experience is fundamentally emergent. we should be able to talk about consciousness. experience flows through consciousness, sculpting it. it won't work to limit the concept of design to only problems that can definitively be solved. we'll always be creating incomplete solutions to incomplete understandings of problems. "when confronted with the ineffable, just say 'eff it'."
+6. daily life is tiring. we get RSI from systems that are just a liiittle bit painful to use. interactions chip away at us, frustrate us. we feel like less than our fullest selves. "the built world" is all around us. if design was aligned toward human experience, we might not feel so roughed up. can we align our design processes toward humans? who will make those decisions? not organizations, which are monsters made of people. experience designers create tools by which we get monsters to care. we are trying to operationalize empathy and turn monsters into people. we are warrior empaths and culture hackers, champions of compassion. we seek to honor and respect each person and are bringing that mindset to every organization we work with. our goal is to dismantle the dehumanizing machinery and make space for humanity. it's not our mandate but our manifest destiny.
+7. one last thing. imagine if we're successful. imagine generations in the future, when children's grandparents grew up with human systems.
+
+## 5-minute madness
+
+wow
+
+## to read
+
+ - [Rethinking Repair](http://sjackson.infosci.cornell.edu/RethinkingRepairPROOFS(reduced)Aug2013.pdf)
+ - [Manual for civilization](http://blog.longnow.org/02014/02/06/manual-for-civilization-begins/)
+ - [combined and uneven apocalypse](http://www.zero-books.net/books/combined-and-uneven-apocalypse)
