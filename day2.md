@@ -98,7 +98,7 @@ Objects: things/nouns; concrete vs. abstract
 
 Predicates: actions between objects. "Is part of" is also a predicate (meranyms: parts of a whole)
 
-## multi-year projects
+## [Mission Impossible: Thriving & Succeeding in Long-term Multi-year Projects](https://www.slideshare.net/secret/yPPDWYySqxRBmA)
 
  - broke project into feature groups
  - broke team into groups, defined roles
